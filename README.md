@@ -4,4 +4,5 @@ An application that helps users who are new to investing to learn about investin
 Key Implementations:
 * The project is built using MVC architecture. 
 * View is designed using Java Swing.
-* The project fetches realtime stock data using Alpha Vantage API
+* The project supports web API integrationg by fetching realtime stock data using Alpha Vantage API
+* Various design patterns are implemented within the project
