@@ -1,0 +1,17 @@
+{
+  "portfolioName": "Portfolio name",
+  "portfolioItems": [
+    {
+      "tickerSymbol": "GOOGLE",
+      "quantity": 162,
+      "purchaseAmount": 19935.14,
+      "dateOfPurchase": "20-04-2019 16:30:00"
+    },
+	{
+      "tickerSymbol": "AMAZON",
+      "quantity": 162,
+      "purchaseAmount": 935.14,
+      "dateOfPurchase": "20-04-2019 16:30:00"
+    }
+  ]
+}

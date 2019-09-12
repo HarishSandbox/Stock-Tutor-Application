@@ -1,0 +1,11 @@
+{
+  "strategyName": "strategy name",
+  "startDate": "Wednesday, April 3, 2019 12:30:30 PM EDT",
+  "frequency": 30,
+  "price": 2000.0,
+  "commissionFee": 20.0,
+  "stocks": {
+    "MSFT": 70.0,
+    "GOOG": 30.0
+  }
+}

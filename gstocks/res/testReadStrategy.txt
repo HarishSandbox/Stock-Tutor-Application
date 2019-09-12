@@ -1,0 +1,11 @@
+{
+  "strategyName": "test file",
+  "startDate": "Wednesday, December 21, 2016 10:30:00 AM EST",
+  "frequency": 30,
+  "price": 2000.0,
+  "commissionFee": 0.0,
+  "stocks": {
+    "MSFT": 70.0,
+    "GOOG": 30.0
+  }
+}
